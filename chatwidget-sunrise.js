@@ -452,7 +452,7 @@
             responseTimeText: 'Olivia will reply in 10 seconds',
             poweredBy: {
                 text: 'Powered by LumenWebDigital',
-                link: 'https://n8n.partnerlinks.io/fabimarkl'
+                link: 'lumenwebdigital.com'
             }
         },
         style: {
